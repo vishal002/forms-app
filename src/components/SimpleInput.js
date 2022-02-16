@@ -2,7 +2,9 @@ import { useState, useRef } from 'react';
 
 
 const SimpleInput = (props) => {
+  // useRef - once form is submitted, if you need value once
   const nameInputRef = useRef()
+  // useState - instant validation every key strok
   const [enteredName, setEnteredName] = useState('');
 
   const nameInputChangeHandler = event => {
@@ -12,8 +14,11 @@ const SimpleInput = (props) => {
     event.preventDefault();
 
     console.log(enteredName);
+    setEnteredName('');
     const enteredValue = nameInputRef.current.value;
     console.log(enteredValue);
+    // clearing input or updating form is bad practice
+    nameInputRef.current.value = ''
   };
 
   return (
