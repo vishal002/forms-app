@@ -14,5 +14,7 @@ Run `npm run build` to build the project. The build artifacts will be stored in 
 
 ## Hooks
 
+useState, useRef
+
 ## App Snapsorts
 ![Movies Home Page and Add movies](https://github.com/vishal002/movies-app/blob/master/public/home_page.jpg?raw=true)
