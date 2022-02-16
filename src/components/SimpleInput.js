@@ -3,7 +3,7 @@ import { useState, useRef } from 'react';
 
 const SimpleInput = (props) => {
   // useRef - once form is submitted, if you need value once
-  const nameInputRef = useRef()
+  const nameInputRef = useRef();
   // useState - instant validation every key strok
   const [enteredName, setEnteredName] = useState('');
 
