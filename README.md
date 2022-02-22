@@ -16,11 +16,23 @@ Run `npm run build` to build the project. The build artifacts will be stored in 
 
 useState, useRef
 
+## Custom Hook
+
+useInput
+
 ## App Snapsorts
-![Movies Home Page and Add movies](https://github.com/vishal002/movies-app/blob/master/public/home_page.jpg?raw=true)
+![Forms](https://github.com/vishal002/forms-app/blob/master/img/home-form.jpg.jpg?raw=true)
+
+![Forms Validation](https://github.com/vishal002/forms-app/blob/master/img/home-form-validation.jpg.jpg?raw=true)
+
+## Third Party Libraries for Forms
+
+[Formik](https://formik.org/docs/overview)
 
 ## usefull links
 
 [Hide JavaScript Code](https://academind.com/tutorials/hide-javascript-code)
 
 [Direct vs Indirect Function Execution](https://academind.com/tutorials/function-bind-event-execution)
+
+[Creating a Custom useForm Hook](https://academind.com/tutorials/reactjs-a-custom-useform-hook)
