@@ -20,15 +20,6 @@ useState, useRef, useReducer
 
 useInput
 
-## App Snapsorts
-![Forms](https://github.com/vishal002/forms-app/blob/master/img/home-form.jpg?raw=true)
-
-![Forms Validation](https://github.com/vishal002/forms-app/blob/master/img/home-form-validation.jpg?raw=true)
-
-![Forms Validation](https://github.com/vishal002/forms-app/blob/master/img/home-basic-form.jpg?raw=true)
-
-![Forms Validation](https://github.com/vishal002/forms-app/blob/master/img/home-basic-form-validation.jpg?raw=true)
-
 ## Third Party Libraries for Forms
 
 [Formik](https://formik.org/docs/overview)
@@ -40,3 +31,12 @@ useInput
 [Direct vs Indirect Function Execution](https://academind.com/tutorials/function-bind-event-execution)
 
 [Creating a Custom useForm Hook](https://academind.com/tutorials/reactjs-a-custom-useform-hook)
+
+## App Snapsorts
+![Forms](https://github.com/vishal002/forms-app/blob/master/img/home-form.jpg?raw=true)
+
+![Forms Validation](https://github.com/vishal002/forms-app/blob/master/img/home-form-validation.jpg?raw=true)
+
+![Forms Validation](https://github.com/vishal002/forms-app/blob/master/img/home-basic-form.jpg?raw=true)
+
+![Forms Validation](https://github.com/vishal002/forms-app/blob/master/img/home-basic-form-validation.jpg?raw=true)
