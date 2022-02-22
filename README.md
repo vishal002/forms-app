@@ -14,16 +14,20 @@ Run `npm run build` to build the project. The build artifacts will be stored in 
 
 ## Hooks
 
-useState, useRef
+useState, useRef, useReducer
 
 ## Custom Hook
 
 useInput
 
 ## App Snapsorts
-![Forms](https://github.com/vishal002/forms-app/blob/master/img/home-form.jpg.jpg?raw=true)
+![Forms](https://github.com/vishal002/forms-app/blob/master/img/home-form.jpg?raw=true)
 
-![Forms Validation](https://github.com/vishal002/forms-app/blob/master/img/home-form-validation.jpg.jpg?raw=true)
+![Forms Validation](https://github.com/vishal002/forms-app/blob/master/img/home-form-validation.jpg?raw=true)
+
+![Forms Validation](https://github.com/vishal002/forms-app/blob/master/img/home-basic-form.jpg?raw=true)
+
+![Forms Validation](https://github.com/vishal002/forms-app/blob/master/img/home-basic-form-validation.jpg?raw=true)
 
 ## Third Party Libraries for Forms
 
